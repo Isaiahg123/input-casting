@@ -16,8 +16,10 @@
 #   >> last name... deppe
 #   deppe, elia
 #
-# ---- WRITE CODE BELOW ---- #
-
+# ---- WRITE CODE BELOW ---- 
+first_name=input("please enter first name")
+last_name=input("please enter last name")
+print(last_name,first_name)
 
 #   2. Pyramid
 #       a. Prompt input from the user in the form of a single character. Save to a variable named symbol.
@@ -34,6 +36,13 @@
 #   $
 #
 # ---- WRITE CODE BELOW ---- #
+symbol=input("please enter a symbol ")
+print(symbol)
+print(symbol * 2)
+print(symbol * 3)
+print(symbol * 2)
+print(symbol)
+
 
 
 #   3. Parallelogram
@@ -53,8 +62,16 @@
 #      @
 #
 # ---- WRITE CODE BELOW ---- #
-
-
+ 
+symbol=input("please enter a symbol ")
+print(symbol)
+print(symbol * 2)
+print(symbol * 3)
+print(symbol * 4)
+print(symbol *3)
+print(symbol* 2)
+print(symbol)
+ 
 # -------------------- Section 2 -------------------- #
 
 # Casting | Getting Integers and Floats from the User
