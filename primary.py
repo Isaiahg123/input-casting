@@ -93,6 +93,9 @@ print(symbol)
 #   num3 (float) | 21322.4
 #
 # ---- WRITE CODE BELOW ---- #
+num1=input("please enter a number")
+num2=input("please enter a number")
+num3=input("please enter a number")
 
 
 # Objectives:
